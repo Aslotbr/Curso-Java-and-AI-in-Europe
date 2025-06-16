@@ -1,6 +1,8 @@
+package exercicios;
+
 import java.util.*;
 
-public class EndpointGetLista {
+public class exer09 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
